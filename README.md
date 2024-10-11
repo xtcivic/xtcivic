@@ -15,4 +15,3 @@ In general, I've worked with monolithic, microservice and serverless architectur
 *   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
 *   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
 *   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
