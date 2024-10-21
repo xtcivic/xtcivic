@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ngo Trung, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
-- A senior software engineer with more than 10 years of professional experience. I have excellent knowledge of backend Java development. In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.  
+- A senior software engineer with more than 10 years of professional experience. I have knowledge of backend Java development. In general, I've worked with monolithic, microservice and serverless architectures. A lot of my activity is open-source.  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
